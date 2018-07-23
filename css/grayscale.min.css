@@ -15,4 +15,10 @@ body{font-family:Lora,'Helvetica Neue',Helvetica,Arial,sans-serif;position:relat
     padding:1px;
     border:1px solid #021a40;
     opacity: 0.8;
+    
+}
+
+.solo{
+    height: 300px;
+    width: auto;
 }
